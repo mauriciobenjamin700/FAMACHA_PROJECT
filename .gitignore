@@ -2,3 +2,4 @@
 venv
 
 #arquivos a serem ignorados
+.zip
